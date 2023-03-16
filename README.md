@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VSCodeGuy
+- 👋 Hi, I’m @UmerMalik
 - 👀 I’m interested in Programming Games, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some Game Development Projects
